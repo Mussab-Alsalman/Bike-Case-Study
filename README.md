@@ -15,16 +15,29 @@ Key insights: (q stand fro question)
 
 3q- In each month, how many casual and member riders through the year?
   both lines droped in the winter months, then casual rides spikes more than members, thats explain a holiday that people come from diff locations in a short of time so they didn't need to become a members.
-  they could do more offers in the last month before the spike like have a free month, so they can expand their suscripstions. in the spike months they should do more ads to improve brand awarness.
 
 4q- What are the types of bikes that ‘casual’ and ‘member’ riders ride?
-
+  classic bikes in general has the highest rides.
 
 5q- Which stations are the top start stations for ‘casual’ and ‘member’ riders?
-
+  members: Clark St & Elm St
+  casual: Streeter Dr & Grand Ave 
 
 6q- Which stations are the top destinations for ‘casual’ and ‘member’ riders?
-
+  members: Clark St & Elm St
+  casual: Streeter Dr & Grand Ave 
 
 7q- The usage (number) in day name for ‘casual’ and ‘member’ riders?
   saturday has highest rides than sunday and friday, the rest of the weekdays are equal.
+
+
+Recommendations:
+  - should do more offers in the last month before the spike like have a free month, so they can expand their suscripstions. in the spike months they should do more ads to improve brand awarness.
+  - should make a point system, the more you use the more point you get, which used for future offers. make for example double points if you use it in the low rush times.
+  - in the winter season, should be more active in socail media by doing a lot of entertaning content to keep the users engaged in the whole year.
+  - new users give them like 2 to 5 minutes with no charging each journy for whole month, which make it a habbit to use the bikes in the future. 
+
+
+
+
+
