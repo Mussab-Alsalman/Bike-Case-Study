@@ -2,7 +2,7 @@ A case study from google analytics project. Trying to answer business questions,
 to analyze the bike user behavior to find insight from several aspects like: the average time trip, most used bike type, which more user members or casuals and lastly most traffic stations.
 
 Tool used:
-  python(pandas, seaborn and matplotlib).
+  python(polars, pandas, seaborn and matplotlib).
 
 Recommendations:
   - pre-spike promotion: offer incentives (free trial month) before known seasonal spikes to convert casual users into members. 
